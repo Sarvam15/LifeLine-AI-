@@ -1,0 +1,20 @@
+=== user prompt 1: ===
+Now I want to take my emergency idea and build the actual app layout here on Replit so it looks real. 
+
+On the main screen, I want 3 options at the top: "Public", "Private", and "Fastest". Put "Fastest" right in the center. Whichever one the user clicks will look for an ambulance based on that type. Below those options, put a big "SOS" button to start the search.
+
+Once the search finds an ambulance, take the user to a details page. This page needs to show:
+- The ETA (arrival time at the patient) and ETH (arrival time at the hospital).
+- A contact section with the driver's phone number, hospital number, and the ambulance license plate.
+- A "Patient Condition Chat" at the bottom where the user can type what's wrong and get replies back from the hospital.
+
+Can you build this layout for me?
+
+---
+
+=== MY FOLLOW-UP REQUEST ===
+This is looking great! Let's add a few things to make it look like a premium, polished app:
+
+1. Add a clean loading splash screen right when the app opens up that shows a "LifeLine-AI" logo.
+2. Put a simple toggle switch so the user can easily swap between Light Mode and Dark Mode.
+3. On the details page, make the map look like a smooth tracking screen—similar to how you track your delivery driver on Zomato or Swiggy—with the ETA and ETH stats sitting clearly right below it.
