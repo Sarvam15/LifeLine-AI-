@@ -3,7 +3,7 @@
 ### 🎥 Watch the Demo Video
 [![Watch the Demo](https://img.shields.io/badge/YouTube-Watch%20Demo%20Video-red?style=for-the-badge&logo=youtube)](PASTE_YOUR_YOUTUBE_OR_DRIVE_VIDEO_LINK_HERE)
 
-*Click the badge above to watch our full hackathon demonstration video walk-through!*
+*Click the badge above to watch our full demonstration video walk-through!*
 
 ---
 
