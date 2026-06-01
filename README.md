@@ -20,7 +20,7 @@ This repository tracks the complete evolution of LifeLine-AI from an initial alg
     * [View Initial Backend Code](./prototype-1/main.py)
     * *Core Logic:* A pure Python terminal-based simulation mapping out the mathematical tracking backend and the automated public service escalation fail-safe.
 * **Version 2: The Operational Web App Dashboard (Built on Replit)**
-    * [View Operational App Code](./prototype-2%20(current%20version)/app.py) | [Launch Live Application Deployment]((https://life-line-aid--sarvamishra1501.replit.app/))
+    * [View Operational App Code](./prototype-2%20(current%20version)/app.py) | [Launch Live Application Deployment](https://life-line-aid--sarvamishra1501.replit.app/)
     * *Core Logic:* The complete interactive web system running on a custom Streamlit layout. It features interactive dashboard selection tiles, live road-mapped visual tracking canvas components, random driver/hospital matching logic matrices, and a direct emergency triage patient-to-hospital chat interface.
 
 ---
