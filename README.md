@@ -1,7 +1,7 @@
 # 🚑 LifeLine-AI
 
 ### 🎥 Watch the Demo Video
-[![Watch the Demo](https://img.shields.io/badge/YouTube-Watch%20Demo%20Video-red?style=for-the-badge&logo=youtube)](PASTE_YOUR_YOUTUBE_OR_DRIVE_VIDEO_LINK_HERE)
+[![Watch the Demo](https://img.shields.io/badge/YouTube-Watch%20Demo%20Video-red?style=for-the-badge&logo=youtube)](https://youtu.be/SMROEwR_7fs?si=4T8ZSoV76pKRW7St)
 
 *Click the badge above to watch our full demonstration video walk-through!*
 
